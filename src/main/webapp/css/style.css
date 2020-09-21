@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2020, 4:35:51 PM
+    Author     : tjsut
+*/
+
+h1 {
+    text-align: center;
+}
+
+.card-body {
+    border: black solid 2px;
+    margin-bottom: 20px;
+}
+
+#moneyIn,
+#dollarButton, 
+#quarterButton, 
+#dimeButton, 
+#nickelButton,
+#messagesDisplay,
+#itemChoice,
+#changeDisplay {
+    margin-bottom: 3px;
+}
+
+#snacksDiv {
+    width: 70%;
+}
+
+#interfaceDiv {
+    width: 30%;
+}
